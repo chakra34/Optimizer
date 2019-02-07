@@ -1,0 +1,1123 @@
+
+ Generation 1 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_01/Test_01/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.116199733753
+ *** pile_up_error-- 0.12413180409
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.121752182989
+ [  1.75545566e+08   5.52283468e+07   3.10305928e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ Generation 1 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_01/Test_02/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.030418304153
+ *** pile_up_error-- 0.113518686239
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0885885716132
+ [  1.70490008e+08   3.97167208e+07   3.06186101e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ Generation 1 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_01/Test_03/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0394707946937
+ *** pile_up_error-- 0.147320710192
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.114965735543
+ [  1.70597515e+08   2.69348725e+07   2.95976564e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ Generation 1 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_01/Test_04/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0139773139865
+ *** pile_up_error-- 0.126026833575
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0924119776984
+ [  1.72852546e+08   3.41547592e+07   3.22482091e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+################################ Initial simplex ###########################################
+ [[ 0.42447581  0.11597012  0.7700152 ]
+ [ 0.41151284  0.07619672  0.75945154]
+ [ 0.4117885   0.04342275  0.73327324]
+ [ 0.41757063  0.06193528  0.80123613]]
+ ############################################################################################
+ Generation 2 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_02/Test_05/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.145171143242
+ *** pile_up_error-- 0.269012706143
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.231860237273
+ [  1.67081146e+08   1.19758882e+07   3.06123909e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ Generation 2 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_02/Test_06/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0593245715758
+ *** pile_up_error-- 0.11156142083
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0958903660537
+ [  1.73429461e+08   4.44152321e+07   3.09260423e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.4190499   0.08824419  0.76733442]
+ [ 0.41151284  0.07619672  0.75945154]
+ [ 0.4117885   0.04342275  0.73327324]
+ [ 0.41757063  0.06193528  0.80123613]]
+=============================================================
+ ****** the current best fitness is **** 0.0885885716132
+ Generation 3 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_03/Test_07/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0989660565875
+ *** pile_up_error-- 0.130047884568
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.120723336174
+ [  1.73917161e+08   5.19229356e+07   3.29309179e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ Generation 3 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_03/Test_08/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0103351091118
+ *** pile_up_error-- 0.124621507501
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0903355879842
+ [  1.71427427e+08   3.31818883e+07   3.04309718e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.4190499   0.08824419  0.76733442]
+ [ 0.41151284  0.07619672  0.75945154]
+ [ 0.41391648  0.05944074  0.7546403 ]
+ [ 0.41757063  0.06193528  0.80123613]]
+=============================================================
+ ****** the current best fitness is **** 0.0885885716132
+ Generation 4 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_04/Test_09/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0391516388167
+ *** pile_up_error-- 0.148152025936
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.1154519098
+ [  1.69750526e+08   2.69536800e+07   3.12724849e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ Generation 4 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_04/Test_010/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0361956848094
+ *** pile_up_error-- 0.114340821121
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0908972802275
+ [  1.72509727e+08   4.00498441e+07   3.10126530e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.41669161  0.07705088  0.7695552 ]
+ [ 0.41151284  0.07619672  0.75945154]
+ [ 0.41391648  0.05944074  0.7546403 ]
+ [ 0.41757063  0.06193528  0.80123613]]
+=============================================================
+ ****** the current best fitness is **** 0.0885885716132
+ Generation 5 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_05/Test_011/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0348089270571
+ *** pile_up_error-- 0.109024736878
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0867599939317
+ [  1.70098895e+08   4.11442096e+07   2.91266141e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ Generation 5 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_05/Test_012/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0468886460587
+ *** pile_up_error-- 0.102521010013
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0858313008267
+ [  1.68722070e+08   4.46389348e+07   2.75658166e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.41669161  0.07705088  0.7695552 ]
+ [ 0.41151284  0.07619672  0.75945154]
+ [ 0.41391648  0.05944074  0.7546403 ]
+ [ 0.40697967  0.08881778  0.68117479]]
+=============================================================
+ ****** the current best fitness is **** 0.0858313008267
+ Generation 6 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_06/Test_013/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0169633633073
+ *** pile_up_error-- 0.11024415265
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0822599158472
+ [  1.67916609e+08   3.83085185e+07   2.80642793e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ Generation 6 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_06/Test_014/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.00987191400247
+ *** pile_up_error-- 0.108450093908
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0788766399363
+ [  1.65620050e+08   3.74378556e+07   2.65900925e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.39902577  0.07035348  0.65615622]
+ [ 0.41151284  0.07619672  0.75945154]
+ [ 0.41391648  0.05944074  0.7546403 ]
+ [ 0.40697967  0.08881778  0.68117479]]
+=============================================================
+ ****** the current best fitness is **** 0.0788766399363
+ Generation 7 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_07/Test_015/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0538143608791
+ *** pile_up_error-- 0.0969968982473
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0840421370368
+ [  1.65127325e+08   4.80137859e+07   2.60853744e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.39902577  0.07035348  0.65615622]
+ [ 0.41151284  0.07619672  0.75945154]
+ [ 0.39776237  0.09747125  0.64321473]
+ [ 0.40697967  0.08881778  0.68117479]]
+=============================================================
+ ****** the current best fitness is **** 0.0788766399363
+ Generation 8 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_08/Test_016/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0364362428963
+ *** pile_up_error-- 0.0982308620717
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0796924763191
+ [  1.62489622e+08   4.70103301e+07   2.28755790e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.39902577  0.07035348  0.65615622]
+ [ 0.39099903  0.09489828  0.56091228]
+ [ 0.39776237  0.09747125  0.64321473]
+ [ 0.40697967  0.08881778  0.68117479]]
+=============================================================
+ ****** the current best fitness is **** 0.0788766399363
+ Generation 9 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_09/Test_017/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0165796021983
+ *** pile_up_error-- 0.0963160433742
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0723951110214
+ [  1.60102595e+08   4.36690463e+07   2.28015473e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ Generation 9 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_09/Test_018/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.00587791627656
+ *** pile_up_error-- 0.0792000905733
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0572034382843
+ [  1.55792857e+08   4.31841020e+07   2.04194126e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.39902577  0.07035348  0.65615622]
+ [ 0.39099903  0.09489828  0.56091228]
+ [ 0.39776237  0.09747125  0.64321473]
+ [ 0.37382784  0.08508744  0.49793366]]
+=============================================================
+ ****** the current best fitness is **** 0.0572034382843
+ Generation 10 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_010/Test_019/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0289586076907
+ *** pile_up_error-- 0.0903128204146
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0719065565974
+ [  1.57474361e+08   3.70744059e+07   2.05046817e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.39902577  0.07035348  0.65615622]
+ [ 0.39099903  0.09489828  0.56091228]
+ [ 0.37813939  0.06942155  0.50012004]
+ [ 0.37382784  0.08508744  0.49793366]]
+=============================================================
+ ****** the current best fitness is **** 0.0572034382843
+ Generation 11 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_011/Test_020/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0540078148984
+ *** pile_up_error-- 0.102342660297
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0878422066774
+ [  1.56768556e+08   3.14539123e+07   2.21338789e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ Generation 11 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_011/Test_021/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0156044827264
+ *** pile_up_error-- 0.0964009995592
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0721620445094
+ [  1.61059356e+08   4.31212256e+07   2.26901540e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.39902577  0.07035348  0.65615622]
+ [ 0.38733168  0.08492622  0.55615779]
+ [ 0.37813939  0.06942155  0.50012004]
+ [ 0.37382784  0.08508744  0.49793366]]
+=============================================================
+ ****** the current best fitness is **** 0.0572034382843
+ Generation 12 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_012/Test_022/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0277127074517
+ *** pile_up_error-- 0.1716882747
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.128495604526
+ [  1.50597666e+08   4.48153000e+07   1.58194063e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ Generation 12 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_012/Test_023/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.00777049683622
+ *** pile_up_error-- 0.105108489697
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0759070918388
+ [  1.61864454e+08   3.92822167e+07   2.38974210e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.38939604  0.07508261  0.58711336]
+ [ 0.38733168  0.08492622  0.55615779]
+ [ 0.37813939  0.06942155  0.50012004]
+ [ 0.37382784  0.08508744  0.49793366]]
+=============================================================
+ ****** the current best fitness is **** 0.0572034382843
+ Generation 13 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_013/Test_024/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.014077577511
+ *** pile_up_error-- 0.103419259694
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0766167550391
+ [  1.54353262e+08   4.29709389e+07   1.85120779e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ Generation 13 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_013/Test_025/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.00706393539371
+ *** pile_up_error-- 0.0950816955149
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0686763674785
+ [  1.59986656e+08   4.02043973e+07   2.25510852e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.38458117  0.07744717  0.55259193]
+ [ 0.38733168  0.08492622  0.55615779]
+ [ 0.37813939  0.06942155  0.50012004]
+ [ 0.37382784  0.08508744  0.49793366]]
+=============================================================
+ ****** the current best fitness is **** 0.0572034382843
+ Generation 14 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_014/Test_026/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0370074542267
+ *** pile_up_error-- 0.0924358430098
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0758073263749
+ [  1.54443227e+08   3.71873778e+07   1.96266323e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ Generation 14 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_014/Test_027/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.00730804649523
+ *** pile_up_error-- 0.0906044321602
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0656155164607
+ [  1.59405324e+08   4.16377637e+07   2.19242736e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.38458117  0.07744717  0.55259193]
+ [ 0.38309057  0.08112247  0.53651983]
+ [ 0.37813939  0.06942155  0.50012004]
+ [ 0.37382784  0.08508744  0.49793366]]
+=============================================================
+ ****** the current best fitness is **** 0.0572034382843
+ Generation 15 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_015/Test_028/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0269251763441
+ *** pile_up_error-- 0.0949599879596
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0745495444749
+ [  1.59315530e+08   4.62764360e+07   2.27584992e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ Generation 15 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_015/Test_029/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0150512435898
+ *** pile_up_error-- 0.0854328904447
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0643183963882
+ [  1.57934653e+08   3.93749134e+07   2.10681361e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.38458117  0.07744717  0.55259193]
+ [ 0.38309057  0.08112247  0.53651983]
+ [ 0.37931962  0.07532029  0.51456759]
+ [ 0.37382784  0.08508744  0.49793366]]
+=============================================================
+ ****** the current best fitness is **** 0.0572034382843
+ Generation 16 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_016/Test_030/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0088632621621
+ *** pile_up_error-- 0.0851059138565
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0622331183482
+ [  1.55435233e+08   4.25934554e+07   1.97234630e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.37291085  0.08357296  0.48008879]
+ [ 0.38309057  0.08112247  0.53651983]
+ [ 0.37931962  0.07532029  0.51456759]
+ [ 0.37382784  0.08508744  0.49793366]]
+=============================================================
+ ****** the current best fitness is **** 0.0572034382843
+ Generation 17 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_017/Test_031/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0195794784131
+ *** pile_up_error-- 0.0937840324713
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0715226662538
+ [  1.53369839e+08   4.17972169e+07   1.88830675e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ Generation 17 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_017/Test_032/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.00654958226512
+ *** pile_up_error-- 0.083553089145
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.060452037081
+ [  1.57896452e+08   4.16776270e+07   2.11639720e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.37291085  0.08357296  0.48008879]
+ [ 0.37922167  0.08122468  0.51702492]
+ [ 0.37931962  0.07532029  0.51456759]
+ [ 0.37382784  0.08508744  0.49793366]]
+=============================================================
+ ****** the current best fitness is **** 0.0572034382843
+ Generation 18 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_018/Test_033/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.00756281145757
+ *** pile_up_error-- 0.0802965720309
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0584764438589
+ [  1.54815042e+08   4.55952095e+07   1.98030957e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.37291085  0.08357296  0.48008879]
+ [ 0.37922167  0.08122468  0.51702492]
+ [ 0.37132062  0.09126977  0.48213066]
+ [ 0.37382784  0.08508744  0.49793366]]
+=============================================================
+ ****** the current best fitness is **** 0.0572034382843
+ Generation 19 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_019/Test_034/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0102688768735
+ *** pile_up_error-- 0.0811827496003
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0599085877823
+ [  1.56901001e+08   4.43778369e+07   2.12008573e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.37666923  0.0881483   0.5179707 ]
+ [ 0.37922167  0.08122468  0.51702492]
+ [ 0.37132062  0.09126977  0.48213066]
+ [ 0.37382784  0.08508744  0.49793366]]
+=============================================================
+ ****** the current best fitness is **** 0.0572034382843
+ Generation 20 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_020/Test_035/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.011182444873
+ *** pile_up_error-- 0.0772506781808
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0574302081885
+ [  1.53776148e+08   4.70938052e+07   1.97849383e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.37666923  0.0881483   0.5179707 ]
+ [ 0.36865679  0.09511232  0.48166508]
+ [ 0.37132062  0.09126977  0.48213066]
+ [ 0.37382784  0.08508744  0.49793366]]
+=============================================================
+ ****** the current best fitness is **** 0.0572034382843
+ Generation 21 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_021/Test_036/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0046696705805
+ *** pile_up_error-- 0.0899401315434
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0643589932545
+ [  1.52688363e+08   4.62042410e+07   1.88041071e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ Generation 21 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_021/Test_037/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.00884491157149
+ *** pile_up_error-- 0.0777517736612
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0570797150343
+ [  1.55847842e+08   4.48344379e+07   2.06016697e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.37396882  0.08931907  0.50260692]
+ [ 0.36865679  0.09511232  0.48166508]
+ [ 0.37132062  0.09126977  0.48213066]
+ [ 0.37382784  0.08508744  0.49793366]]
+=============================================================
+ ****** the current best fitness is **** 0.0570797150343
+ Generation 22 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_022/Test_038/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.00765882357607
+ *** pile_up_error-- 0.0769034631355
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0561300712677
+ [  1.55462856e+08   4.44796872e+07   2.07342514e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ Generation 22 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_022/Test_039/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.00753714029207
+ *** pile_up_error-- 0.079881492654
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0581781869454
+ [  1.55786762e+08   4.39219261e+07   2.11998293e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.37396882  0.08931907  0.50260692]
+ [ 0.36865679  0.09511232  0.48166508]
+ [ 0.37298168  0.08840945  0.50600645]
+ [ 0.37382784  0.08508744  0.49793366]]
+=============================================================
+ ****** the current best fitness is **** 0.0561300712677
+ Generation 23 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_023/Test_040/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.00706244994405
+ *** pile_up_error-- 0.0846549199861
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0613771789735
+ [  1.57626222e+08   4.12383462e+07   2.13852842e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ Generation 23 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_023/Test_041/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.00870607356475
+ *** pile_up_error-- 0.0768362117956
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0563971703263
+ [  1.54738666e+08   4.56299405e+07   2.01850248e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.37396882  0.08931907  0.50260692]
+ [ 0.37112478  0.09135882  0.49192371]
+ [ 0.37298168  0.08840945  0.50600645]
+ [ 0.37382784  0.08508744  0.49793366]]
+=============================================================
+ ****** the current best fitness is **** 0.0561300712677
+ Generation 24 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_024/Test_042/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0145990804717
+ *** pile_up_error-- 0.075278475736
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0570746571567
+ [  1.54906718e+08   4.67786084e+07   2.05945513e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.37396882  0.08931907  0.50260692]
+ [ 0.37112478  0.09135882  0.49192371]
+ [ 0.37298168  0.08840945  0.50600645]
+ [ 0.37155569  0.09430412  0.50242439]]
+=============================================================
+ ****** the current best fitness is **** 0.0561300712677
+ Generation 25 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_025/Test_043/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0114084264399
+ *** pile_up_error-- 0.0741665486977
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0553391120204
+ [  1.54224318e+08   4.64243862e+07   2.04075486e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ Generation 25 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_025/Test_044/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0130099005168
+ *** pile_up_error-- 0.0725243791621
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0546700355685
+ [  1.53412557e+08   4.72193604e+07   2.03104881e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.36772451  0.09543426  0.49514072]
+ [ 0.37112478  0.09135882  0.49192371]
+ [ 0.37298168  0.08840945  0.50600645]
+ [ 0.37155569  0.09430412  0.50242439]]
+=============================================================
+ ****** the current best fitness is **** 0.0546700355685
+ Generation 26 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_026/Test_045/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.00597566905311
+ *** pile_up_error-- 0.075615974799
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0547238830752
+ [  1.54169334e+08   4.47740503e+07   2.02252915e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.36772451  0.09543426  0.49514072]
+ [ 0.37112478  0.09135882  0.49192371]
+ [ 0.37298168  0.08840945  0.50600645]
+ [ 0.36966496  0.08916423  0.49295619]]
+=============================================================
+ ****** the current best fitness is **** 0.0546700355685
+ Generation 27 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_027/Test_046/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.00816416931823
+ *** pile_up_error-- 0.0738422591376
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0541388321918
+ [  1.53957832e+08   4.53521248e+07   2.06616626e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ Generation 27 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_027/Test_047/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.00788663638537
+ *** pile_up_error-- 0.0745511085197
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0545517668794
+ [  1.53567414e+08   4.52132170e+07   2.08999815e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.36772451  0.09543426  0.49514072]
+ [ 0.36912264  0.09064647  0.50414519]
+ [ 0.37298168  0.08840945  0.50600645]
+ [ 0.36966496  0.08916423  0.49295619]]
+=============================================================
+ ****** the current best fitness is **** 0.0541388321918
+ Generation 28 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_028/Test_048/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.00983222152451
+ *** pile_up_error-- 0.0713131963645
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0528689039125
+ [  1.52230293e+08   4.70840031e+07   2.00640434e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ Generation 28 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_028/Test_049/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0111629548807
+ *** pile_up_error-- 0.0694073580263
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0519340370826
+ [  1.50614011e+08   4.83861610e+07   1.97289393e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.36772451  0.09543426  0.49514072]
+ [ 0.36912264  0.09064647  0.50414519]
+ [ 0.36054875  0.09842605  0.48022921]
+ [ 0.36966496  0.08916423  0.49295619]]
+=============================================================
+ ****** the current best fitness is **** 0.0519340370826
+ Generation 29 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_029/Test_050/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0175585916254
+ *** pile_up_error-- 0.067614369665
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0525976362531
+ [  1.51153599e+08   4.91977138e+07   2.02421018e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.36772451  0.09543426  0.49514072]
+ [ 0.36912264  0.09064647  0.50414519]
+ [ 0.36054875  0.09842605  0.48022921]
+ [ 0.36193231  0.10050696  0.49338723]]
+=============================================================
+ ****** the current best fitness is **** 0.0519340370826
+ Generation 30 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_030/Test_051/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.010897118613
+ *** pile_up_error-- 0.0664811402326
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0498059337467
+ [  1.50404405e+08   4.80713060e+07   2.01113144e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ Generation 30 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_030/Test_052/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.00987306028885
+ *** pile_up_error-- 0.0635353901468
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0474366911894
+ [  1.48900328e+08   4.84972788e+07   2.00117275e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.35615469  0.09871097  0.48748019]
+ [ 0.36912264  0.09064647  0.50414519]
+ [ 0.36054875  0.09842605  0.48022921]
+ [ 0.36193231  0.10050696  0.49338723]]
+=============================================================
+ ****** the current best fitness is **** 0.0474366911894
+ Generation 31 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_031/Test_053/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0184902897966
+ *** pile_up_error-- 0.0619492574148
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0489115671293
+ [  1.46487461e+08   5.20353109e+07   1.93268499e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.35615469  0.09871097  0.48748019]
+ [ 0.34996785  0.10778285  0.46991923]
+ [ 0.36054875  0.09842605  0.48022921]
+ [ 0.36193231  0.10050696  0.49338723]]
+=============================================================
+ ****** the current best fitness is **** 0.0474366911894
+ Generation 32 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_032/Test_054/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.00858965575369
+ *** pile_up_error-- 0.0634778277634
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0470113761605
+ [  1.46180935e+08   5.00814534e+07   1.91362427e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ Generation 32 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_032/Test_055/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.00461693271636
+ *** pile_up_error-- 0.0652195595947
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0470387715312
+ [  1.43694602e+08   5.05233232e+07   1.85833131e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.35615469  0.09871097  0.48748019]
+ [ 0.34996785  0.10778285  0.46991923]
+ [ 0.36054875  0.09842605  0.48022921]
+ [ 0.34918188  0.10277296  0.46503186]]
+=============================================================
+ ****** the current best fitness is **** 0.0470113761605
+ Generation 33 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_033/Test_056/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0133097611661
+ *** pile_up_error-- 0.0554005253857
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0427732961198
+ [  1.43765138e+08   5.20232011e+07   1.92542741e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ Generation 33 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_033/Test_057/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.0143101946304
+ *** pile_up_error-- 0.0485836074486
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0383015836031
+ [  1.40340701e+08   5.38417212e+07   1.90169414e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.35615469  0.09871097  0.48748019]
+ [ 0.34996785  0.10778285  0.46991923]
+ [ 0.33420693  0.11241467  0.46197286]
+ [ 0.34918188  0.10277296  0.46503186]]
+=============================================================
+ ****** the current best fitness is **** 0.0383015836031
+ Generation 34 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_034/Test_058/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.00485122008746
+ *** pile_up_error-- 0.0540721254109
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0393058538139
+ [  1.43793848e+08   4.95783247e+07   1.94497579e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.35615469  0.09871097  0.48748019]
+ [ 0.34306115  0.10148288  0.47307071]
+ [ 0.33420693  0.11241467  0.46197286]
+ [ 0.34918188  0.10277296  0.46503186]]
+=============================================================
+ ****** the current best fitness is **** 0.0383015836031
+ Generation 35 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_035/Test_059/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.00730823986037
+ *** pile_up_error-- 0.0515799353161
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0382984266794
+ [  1.37976661e+08   5.38370540e+07   1.83902338e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ Generation 35 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_035/Test_060/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.00528448567381
+ *** pile_up_error-- 0.0549233500481
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0400316907358
+ [  1.32514828e+08   5.65069416e+07   1.75794869e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.32814529  0.1124027   0.44590343]
+ [ 0.34306115  0.10148288  0.47307071]
+ [ 0.33420693  0.11241467  0.46197286]
+ [ 0.34918188  0.10277296  0.46503186]]
+=============================================================
+ ****** the current best fitness is **** 0.0382984266794
+ Generation 36 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_036/Test_061/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.00819113067006
+ *** pile_up_error-- 0.0369854536119
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0283471567293
+ [  1.35226539e+08   5.47566132e+07   1.87683794e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ Generation 36 
+ ++++++++++++++++++++++++++++++++++++++++ doing for orientation ++++++++++++++++++++++++++++++++++++++++
+                                          77.0-81.0-261.0                                                     
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ compare_pileup.py --multiplier 1 --sim /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/Generation_036/Test_062/Orientation_01/subset_sim.txt /egr/research-cmm/Projects/Aritra/cpTi_hexMatrix/SyntheticTests/NewOptimization_Study/CRSS_120_60_180/SingleOri_77_81_261_higherWeightage/cpTi_NewModel_indent_exp_pileUp_1.txt  ***
+ load_disp error-- 0.00776767727292
+ *** pile_up_error-- 0.0235644945377
+ *** orientation --> [  77.   81.  261.] ***
+ +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++
+
+ 0.0188254493583
+ [  1.29749342e+08   5.70941932e+07   1.85844477e+08]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ =================== current population ======================
+ [[ 0.32814529  0.1124027   0.44590343]
+ [ 0.34306115  0.10148288  0.47307071]
+ [ 0.33420693  0.11241467  0.46197286]
+ [ 0.30704959  0.12075434  0.45088328]]
+=============================================================
+ ****** the current best fitness is **** 0.0188254493583
+Time for simulation 1048365.90876
+ 62
+ (array([  1.29749342e+08,   5.70941932e+07,   1.85844477e+08]), 0.018825449358265998)
