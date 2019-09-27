@@ -7,6 +7,7 @@ import random
 import Optimization
 from optparse import OptionParser
 from subprocess import run,check_output
+import damask
 
 #------------------------------------------------------------------------------------------------- #
 _ratio = None
@@ -24,19 +25,18 @@ class optimize(Optimization.Optimization):
     xvalue        = self.map2space(x[:self.dimension])[0]
     yvalue        = self.map2space(x[:self.dimension])[1]
     fitness_value = (xvalue**2 + yvalue -11)**2 + (xvalue + yvalue**2 - 7 )**2               #https://en.wikipedia.org/wiki/Test_functions_for_optimization
-    print(fitness_value)
-    self.curr_locations.append(np.append(x,fitness_value))
+    print('fitness {}'.format(fitness_value))
     self.locations[self.id(x)] = fitness_value
-
+   
     if not options.concise:
       with open('{}/output_gen{}_{}.log'.format(options.root,self.generation+1,self.id(x)),'a') as file:
-        file.write("\n Generation %i "%(self.generation+1)) 
+        file.write("\n Generation %i "%(self.generation+1))
         file.write("\n +++++++++++++++++++++++++++++++++ current fitness and points +++++++++++++++++++++++++++\n")
         file.write("\n fitness {}".format(fitness_value))
         file.write("\n points {} parameters{}".format(x[:self.dimension],self.map2space(x[:self.dimension])))
         file.write("\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n")
-      file.close()
-      
+      file.close() 
+    
     return fitness_value
 
 #-------------------------------- main program starts here ----------------------------------------- #
@@ -72,25 +72,25 @@ if options.restart:
   table1.head_read()
   table1.data_readArray()
 
-  theOptimizer = optimize( method          = 'pso',
+  theOptimizer = optimize( method          = 'neldermead',
                            bounds          = np.array([[-10,10],
                                                        [-10,10],
                                                      ]),
                            tolerance       = 0.01,
-                           concise_outputs = options.concise,
                            root            = options.root,
+                           concise_outputs = options.concise,
                            rigid           = True,
                            restart         = True,
                            points_rs       = table1.data,
                            )
 else:
-  theOptimizer = optimize(method           = 'pso',
+  theOptimizer = optimize(method           = 'neldermead',
                            bounds          = np.array([[-10,10],
                                                        [-10,10],
                                                      ]),
                            tolerance       = 0.01,
-                           concise_outputs = options.concise,
                            root            = options.root,
+                           concise_outputs = options.concise,
                            rigid           = True,
                            )
 
